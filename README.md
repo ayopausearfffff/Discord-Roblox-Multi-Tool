@@ -1,26 +1,11 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1006899534078685254/1016643954718015519/unknown.png">
+  <img src="https://cdn.discordapp.com/attachments/1020733646191198298/1020943649460203600/unknown.png">
 </p>
 
 
 <h1 align="center">Discord & Roblox Multi Tool 🔧</h1>
 <p align="center">
-  <a href="https://github.com/Rdmo1/DisRo-Multi-Tool/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-important">
-  </a>
-  <a href="https://www.python.org">
-    <img src="https://img.shields.io/badge/Python-3.9-informational.svg">
-  </a>
-  <a href="https://github.com/AstraaDev/Discord-All-Tools-In-One">
-    <img src="https://img.shields.io/badge/covarage-95%25-green">
-  </a>
-  <a href="https://github.com/AstraaDev">
-    <img src="https://img.shields.io/github/repo-size/Rdmo1/Premium-Pack.svg?label=Repo%20size&style=flat-square">
-  </a>
-  <a href="https://github.com/Rdmo1">
-    <img src="https://gpvc.arturio.dev/Rdmo1">
-  </a>
-</p>
+
 
 <p align="center">
   ❗[Advice]❗ - Make sure to MODIFY the config.js before using 🧩
@@ -65,15 +50,14 @@ Launch the launcher.bat file.
 
 #### 2nd・Installation (Manual installation)
 ```
-$ git clone https://github.com/Rdmo1/Neptune
 $ python3 -m pip install -r requirements.txt
-$ python3 neptune.py
+$ python3 main.py
 ```
 
 ## Additional Informations 
 General Informations:
 > Find your output files in the output folder 📁
-> If you find any malfunction, contact me on Discord: Rdmo1#3333
+> If you find any malfunction, contact me on Discord: 
 
 ## Tutorial 🔦
 - ⚒️ do you want tutorial? you can watch [here](https://streamable.com/s5de26)
@@ -81,7 +65,7 @@ General Informations:
 ## Multi Tool Crashing? <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
 </h1>
 
-> try to reinstall python, if not work contact me on discord!: Rdmo1#3333
+> try to reinstall python, if not work contact me on discord!:london playz#0225
 
 > You probably have python 3.10 which has some new shit so downgrade to [python 3.9](https://www.python.org/downloads/release/python-397/)
 
